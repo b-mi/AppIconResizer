@@ -1,5 +1,5 @@
 # AppIconResizer
-Resize source png image into other sizes of app icons
+Resize source png/ico image into other sizes of app icons (for Angular PWA application)
 
 ## Usage:
 
